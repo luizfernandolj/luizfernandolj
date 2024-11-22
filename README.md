@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Data Science**
 
-- 🌱 I’m currently learning **Quantification and machine learning**
+- 🌱 I’m currently learning **Quantification and Data Streams**
 
 - 📫 How to reach me **luizfernandoluth at gmail.com**
 
